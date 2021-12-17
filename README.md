@@ -1,5 +1,6 @@
 # Info Gathering
 ## dmitry
+"Deepmagic Information Gathering Tool". Combines almost any type of scanner you can think of into one. By default includes info gathering on WHOIS, Netcraft, subdomains, emails, and TCP ports. The TCP port scan seems to be fairly slow.
 ## ike-scan
 ## legion
 ## maltego
